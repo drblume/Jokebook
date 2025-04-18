@@ -1,0 +1,10 @@
+# Node
+node_modules/
+.env
+
+# SQLite
+data/*.db
+
+# React build artifacts
+client/build/
+client/node_modules/
